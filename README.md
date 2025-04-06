@@ -134,9 +134,7 @@ AWS 클라우드
  
  <img src="./images/readme_images/sw_arc.png" style="width:100%;"/>
 
-- EduLink 서비스는 유지보수성과 확장성을 고려한 아키텍처를 기반으로 설계되었습니다.
-
-- 이를 위해 MVC(Model-View-Controller) 아키텍처와 레이어드 아키텍처(Layered Architecture)를 적용하여 역할을 명확히 분리하고, 코드의 가독성과 재사용성을 높였습니다.
+- 유지보수성과 확장성을 위해 MVC(Model-View-Controller)와 레이어드 아키텍처(Layered Architecture)를 적용하여 역할을 명확히 분리하고, 코드의 가독성과 재사용성을 높였습니다.
 
 ## 📃 API 명세서
 <a href="http://www.edulink-back-api.kro.kr:8080/swagger-ui/index.html">API 명세서</a>
